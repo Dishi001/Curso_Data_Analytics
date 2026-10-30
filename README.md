@@ -11,7 +11,7 @@ El objetivo es estructurar un modelo de datos transaccional para realizar el seg
 ## Cómo ejecutar los scripts SQL
 1. Clonar este repositorio.
 2. Abrir SQL Server Management Studio (SSMS).
-3. Ejecutar primero el script `carga_datos.sql`, luego cargar los datos, y finalmente correr `02_DML_Vistas.sql`.
+3. Ejecutar primero el script `carga_datos.sql`, luego  correr `consultas_negocios.sql` y `consultas_joins.sql` para validar que la carga sea correcta.
 
 ## Autor
 Desarrollado por Máximo De Godoy - Analista de Datos.
