@@ -1,14 +1,17 @@
-# 📊 Proyecto Data Analytics - RetailPro
+# Proyecto Data Analytics - RetailPro
 
-## 📝 Descripción
-Este repositorio contiene el proyecto final de análisis de datos para RetailPro, una empresa distribuidora de tecnología. El objetivo es analizar las ventas mensuales y el rendimiento de los productos.
+## Descripción
+El objetivo es estructurar un modelo de datos transaccional para realizar el seguimiento del P&L, analizar variaciones financieras y alimentar un dashboard ejecutivo.
 
-## 🛠️ Herramientas utilizadas
+## Herramientas utilizadas
 - SQL Server (T-SQL)
 - Power BI
 - Excel
 
-## 🚀 Cómo ejecutar los scripts SQL
+## Cómo ejecutar los scripts SQL
 1. Clonar este repositorio.
 2. Abrir SQL Server Management Studio (SSMS).
-3. Ejecutar los scripts para crear las tablas y las vistas.
+3. Ejecutar primero el script `01_DDL_CreacionTablas.sql`, luego cargar los datos, y finalmente correr `02_DML_Vistas.sql`.
+
+## Autor
+Desarrollado por Máximo De Godoy - Analista de Datos.
